@@ -1,0 +1,6 @@
+Detecting the insurance price based on some features.
+
+
+##Resources:
+For LabelEncoder & OneHotEncoding: https://medium.com/@contactsunny/label-encoder-vs-one-hot-encoder-in-machine-learning-3fc273365621
+For Outliers Issue: https://towardsdatascience.com/ways-to-detect-and-remove-the-outliers-404d16608dba
